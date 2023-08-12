@@ -217,7 +217,7 @@ array.) The overall process should be:
 
 1. create a new, empty array to hold the messages;
 2. iterate through the input array and, inside the loop, build out the 'thank
-   you' message for each name using string interpolation, then add that message
+    you' message for each name using string interpolation, then add that message
    to the new array you created;
 3. after the loop finishes and all of the messages have been added to the new
    array, return the new array.
